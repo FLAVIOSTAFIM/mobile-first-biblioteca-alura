@@ -4,3 +4,8 @@
     background-image: url(../imagem/Menu.svg.png);
     display: inline-block;
 }
+
+.cabeçalho(
+    backgrond-color:var(--branco);
+)
+    
