@@ -2,7 +2,8 @@
 
 :root{
      --branco:#FFFFFF;
-     --cor-de-fundo:#ebecee,
+     --cor-de-fundo:#ebecee;
+     --fone-principal:"po"
 }
 body{
       background-color:var(--cor-de-fundo);
