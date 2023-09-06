@@ -3,7 +3,7 @@
 :root{
      --branco:#FFFFFF;
      --cor-de-fundo:#ebecee;
-     --fone-principal:"po"
+     --fone-principal:"poppins"
 }
 body{
       background-color:var(--cor-de-fundo);
