@@ -1,12 +1,12 @@
 @import url("../style/header.css");
 
 :root{
+    --cor-de-fundo:#ebecee;
      --branco:#FFFFFF;
-     --cor-de-fundo:#ebecee;
      --amarelo:#FECD27;
      --fone-principal:"poppins";
      --roxo:#733887;
-     
+
 }
 body{
       background-color:var(--cor-de-fundo);
