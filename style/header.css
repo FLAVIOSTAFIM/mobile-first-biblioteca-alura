@@ -5,6 +5,7 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+
 }
 
 .cabeçalho{
@@ -19,23 +20,31 @@
 
  .div-1{
     display: flex;
-    justify-content: space-around;
+    align-items:center;
  }
    
-h1{
-    background-color: white;
-}
-
 
 h1{
         display: none;
+
     }
     .lista-menu{
         display: block;
         position: absolute;
         top: 100px;
     }
-
+    .lista-menu-titulo,.lista-menu-item{
+        padding: 1em;
+    background-color: var(--branco);  
+ }
+.lista-menu-titulo{
+    color: var(--amarelo);
+}
+.lista-menu-link{
+    background: var(--roxo);
+    background-clip: text;
+    text-transform: uppercase; 
+}
 
 @media screen and(min-width:1024px){
         h1{
