@@ -6,6 +6,7 @@
      --amarelo:#FECD27;
      --fone-principal:"poppins";
      --roxo:#733887;
+     
 }
 body{
       background-color:var(--cor-de-fundo);
