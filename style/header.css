@@ -14,14 +14,13 @@ align-items: center;
 position: relative;
 }
 
- .div-1{
+.div-1{
     display: flex;
-    align-items:center;
- }
-.h1{
-        display: none;
-
-    }
+    align-items: center;
+}
+h1{
+    display: none;
+}
     .lista-menu{
         display: block;
         position: absolute;
